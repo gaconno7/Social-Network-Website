@@ -1,1 +1,1 @@
-<<Social Network Website>>
+~ Social Network Website ~
